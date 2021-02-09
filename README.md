@@ -9,7 +9,7 @@
 - 💬 扣扣邮箱，欢迎一起讨论学习：[2300546456@qq.com](mailto:2300546456@qq.com)
 - ⭐ 个人博客： [Hexo搭建的小破站](https://pengpenglang.vip/)
 - 😺 杂食动物: 🍹 麦旋风 && 💻 Y7000 && 🎁老婆手办
-- 📆 在家度假ing
+- 📆 在家闭关修仙ing...
 
 
 ### 🛠 技术栈 | Tech Stack
@@ -29,13 +29,17 @@
 - ...
 
 ### 个人玩具
-- [Hexo博客](https://pengpenglang.vip/)
+- [Hexo框架+butterfly主题搭建的个人小破站](https://pengpenglang.vip/)
 - ...
 
 ### 正在做的事
-`追番` && `ACM划水` && `变老`
+`熬夜追番` && `ACM划水` && `写BUG` && `发呆等死`
 
+### github数据统计
 [![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=pengpenglang&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Langwenchong&theme=gotham&layout=compact" width="101" height="101%"/>
+</a>
 
 > ***你知道什么时候会赢吗？就是往前奔跑。黑夜中你知道什么时候会天亮吗？跑着跑着就天亮了🏃***
 
