@@ -6,7 +6,7 @@
 
 - 帝都末流211计算机专业大二在读生
 - ⚡ `ACM蒟蒻er` && `02老公` && `零食依赖症晚期患者`
-- 💬 扣扣邮箱，欢迎一起讨论学习：[2300546456@qq.com](mailto:2300546456@qq.com)
+- 💬 扣扣邮箱：[2300546456@qq.com](mailto:2300546456@qq.com)
 - ⭐ 个人博客： [Hexo搭建的小破站](https://pengpenglang.vip/)
 - 😺 杂食动物: 🍹 麦旋风 && 💻 Y7000 && 🎁老婆手办
 - 📆 在家闭关修仙ing...
@@ -38,7 +38,7 @@
 ### 我的数据统计
 [![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=pengpenglang&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Langwenchong&theme=gotham&layout=compact" width="418px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Langwenchong&theme=gotham&layout=compact"/>
 </a>
 
 > ***你知道什么时候会赢吗？就是往前奔跑。黑夜中你知道什么时候会天亮吗？跑着跑着就天亮了🏃***
