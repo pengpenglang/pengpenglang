@@ -1,6 +1,6 @@
 ## 保持热爱 背负山海 忠于自己 不负野心 👋
 ---
-<img align="right" alt="" src="https://gitee.com/pengpenglang/blogimg/raw/master/img/avatar_back.webp" style="max-width:100%;" width="300px" height="480px"/>
+<img align="right" alt="" src="https://gitee.com/pengpenglang/blogimg/raw/master/img/avatar_back.webp" style="max-width:100%;" width="480px" height="480px"/>
 
 ### Hello,there is pengpenglang 
 
@@ -19,8 +19,11 @@
 ![PHP](https://img.shields.io/badge/PHP-5-brightgreen)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
-- 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-- 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+- 🌐 &#160; 
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3)
+- 🔧 &#160;
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - ...
