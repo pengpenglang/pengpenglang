@@ -25,6 +25,7 @@
 - 🔧 &#160;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Gitee](https://img.shields.io/badge/-Gitee-333333?style=flat&logo=gitee)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - ...
 
