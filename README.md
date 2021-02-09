@@ -1,24 +1,40 @@
-<h2 align="center">👋 Hello,这里是pengpenglang的小屋</h1>
+## 保持热爱 背负山海 忠于自己 不负野心 👋
+---
+<img align="right" alt="GIF" src="https://github.com/Cl0udG0d/Cl0udG0d/blob/main/images/1.jpg" style="max-width:100%;" width="280px" />
 
-- 😄 Who are you: **一名末流211进修大二的学生**
-- 🌱 学习中: **C++ & Java & HTML &CSS**
-- 💬 来探讨: **hexo博客搭建 & ChinaOpenSSL & ACM-ICPC**
-- 👀 联系我: ****
+### Hello,there is pengpenglang 
+
+- 帝都末流211计算机专业大二在读生
+- ⚡ `ACM蒟蒻er` && `02老公` && `零食依赖症晚期患者`
+- 💬 扣扣邮箱，欢迎一起讨论学习：[2300546456@qq.com](mailto:2300546456@qq.com)
+- ⭐ 个人博客： [Hexo搭建的小破站](https://pengpenglang.vip/)
+- 😺 杂食动物: 🍹 麦旋风 && 💻 Y7000 && 🎁老婆手办
+- 📆 在家度假ing
 
 
-### 📝 个人项目
+### 🛠 技术栈 | Tech Stack
 
-- [个人博客](https://pengpenglang.vip/)
+- 💻 &#160; 
+![C](https://img.shields.io/badge/C-%E8%AF%AD%E8%A8%80-red)
+![PHP](https://img.shields.io/badge/PHP-5-brightgreen)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
+- 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+- 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- ...
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=pengpenglang&show_icons=true&hide_border=true">
-</p>
+### 个人玩具
+- [Hexo博客](https://pengpenglang.vip/)
+- ...
 
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/pengpenglang/count.svg" alt="Visitor Count" />
-</p>
+### 正在做的事
+`追番` && `ACM划水` && `变老`
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pengpenglang&theme=gotham&layout=compact" />
-</a>
+[![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=pengpenglang&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+> ***你知道什么时候会赢吗？就是往前奔跑。黑夜中你知道什么时候会天亮吗？跑着跑着就天亮了🏃***
+
+
+⭐️ From [pengpenglang](https://github.com/pengpenglang)
