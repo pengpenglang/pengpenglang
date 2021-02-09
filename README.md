@@ -1,7 +1,7 @@
-## 保持热爱 奔赴山海 忠于自己 不负野心 👋
+## ☀ 保持热爱 奔赴山海 忠于自己 不负野心 🌊
 <img align="right" alt="" src="https://gitee.com/pengpenglang/blogimg/raw/master/img/avatar_back.webp" style="max-width:100%;" width="480px" height="480px"/>
 
-### 😃 Hello,there is pengpenglang
+### 👋 Hello,there is pengpenglang
 
 - 🏙 帝都末流211计算机专业大二在读生
 - ⚡ `ACM蒟蒻er` && `02老公` && `零食依赖症晚期患者`
