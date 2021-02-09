@@ -1,14 +1,14 @@
 ## 保持热爱 背负山海 忠于自己 不负野心 👋
 <img align="right" alt="" src="https://gitee.com/pengpenglang/blogimg/raw/master/img/avatar_back.webp" style="max-width:100%;" width="480px" height="480px"/>
 
-### Hello,there is pengpenglang 
+### 😃 Hello,there is pengpenglang
 
-- 帝都末流211计算机专业大二在读生
+- 🏙 帝都末流211计算机专业大二在读生
 - ⚡ `ACM蒟蒻er` && `02老公` && `零食依赖症晚期患者`
 - 💬 扣扣邮箱：[2300546456@qq.com](mailto:2300546456@qq.com)
 - ⭐ 个人博客： [Hexo搭建的小破站](https://pengpenglang.vip/)
-- 😺 杂食动物: 🍹 麦旋风 && 💻 Y7000 && 🎁老婆手办
-- 📆 在家闭关修仙ing...
+- 😺 杂食动物: 🍹 麦旋风 && 💻 Y7000 && 🎁 老婆手办
+- 📆 在家闭关修仙ing 👘...
 
 
 ### 🛠 技术栈 | Tech Stack
@@ -27,11 +27,11 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - ...
 
-### 我的玩具
+### 🦄 我的玩具 | Toys
 - [Hexo框架+butterfly主题搭建的个人小破站](https://pengpenglang.vip/)
 - ...
 
-### 正在做的事
+### 🎨 正在做的事 | Doing
 `熬夜追番` && `ACM划水` && `写BUG` && `发呆等死`
 
 ### 我的数据统计
@@ -40,7 +40,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Langwenchong&theme=gotham&layout=compact"/>
 </a>
 
-> ***你知道什么时候会赢吗？就是往前奔跑。黑夜中你知道什么时候会天亮吗？跑着跑着就天亮了🏃***
+> **你知道什么时候会赢吗？就是往前奔跑。黑夜中你知道什么时候会天亮吗？跑着跑着就天亮了🏃**
 
 
 ⭐️ From [pengpenglang](https://github.com/pengpenglang)
