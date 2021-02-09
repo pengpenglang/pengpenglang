@@ -28,17 +28,17 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - ...
 
-### 个人玩具
+### 我的玩具
 - [Hexo框架+butterfly主题搭建的个人小破站](https://pengpenglang.vip/)
 - ...
 
 ### 正在做的事
 `熬夜追番` && `ACM划水` && `写BUG` && `发呆等死`
 
-### github数据统计
+### 我的数据统计
 [![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=pengpenglang&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Langwenchong&theme=gotham&layout=compact" width="101" height="101%"/>
+  <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Langwenchong&theme=gotham&layout=compact"/>
 </a>
 
 > ***你知道什么时候会赢吗？就是往前奔跑。黑夜中你知道什么时候会天亮吗？跑着跑着就天亮了🏃***
