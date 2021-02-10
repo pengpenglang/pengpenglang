@@ -41,7 +41,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Langwenchong&theme=gotham&layout=compact"/>
 </a>
 
-> **你知道什么时候会赢吗？就是往前奔跑。黑夜中你知道什么时候会天亮吗？跑着跑着就天亮了🏃**
+> **你知道什么时候会赢吗？就是往前奔跑。黑夜中你知道什么时候会天亮吗？跑着跑着就天亮了 🏃**
 
 
 ⭐️ From [pengpenglang](https://github.com/pengpenglang)
