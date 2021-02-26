@@ -34,7 +34,7 @@
 - ...
 
 ### 🎨 正在做的事 | Doing
-`熬夜追番` && `ACM划水` && `写BUG` && `发呆等死`
+`熬夜追番` && `ACM划水` && `写BUG` && `发呆`
 
 ### 我的数据统计
 [![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=pengpenglang&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
