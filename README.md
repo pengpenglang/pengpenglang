@@ -2,7 +2,7 @@
 <img align="right" alt="" src="./img/avatar_back.png" style="@media (min-width: 960px){display:none;}" width="480px" height="480px"/>
 
 ### 👋 Hello, there is pengpenglang
-- 🏙 一个帝都末流211计算机专业的大二在读生
+- 🏙 一个帝都末流211计算机专业的大三在读生
 - ⚡ `ACM蒟蒻er` && `02老公` && `零食依赖症晚期患者`
 - 💬 扣扣邮箱：[2300546456@qq.com](mailto:2300546456@qq.com)
 - 📮 网易邮箱：[pengpenglang@126.com](mailto:pengpenglang@126.com)
