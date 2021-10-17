@@ -1,5 +1,5 @@
 ## ☀ 保持热爱 奔赴山海 忠于自己 不负野心 🌊
-<img align="right" alt="" src="./img/avatar_back-2.jpg" style="@media (min-width: 960px){display:none;}" width="380px" height="580px"/>
+<img align="right" alt="" src="./img/avatar_back-2.jpg" style="@media (min-width: 960px){display:none;}" width="380px" height="560px"/>
 
 ### 👋 Hello, there is pengpenglang
 - 🏙 一个帝都末流211计算机专业的大三在读生
@@ -37,12 +37,12 @@
 `熬夜追番` && `ACM划水` && `写BUG` && `发呆`
 
 ### 我的数据统计
-[![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=pengpenglang&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pengpenglang&theme=gotham&layout=compact&hide=html"/>
+[![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=pengpenglang&show_icons=fa&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pengpenglang&layout=compact&hide=html" height="195px"/>
 </a>
 
 > **你知道什么时候会赢吗？就是往前奔跑。黑夜中你知道什么时候会天亮吗？跑着跑着就天亮了 🏃**
 
 
 ⭐️ From [pengpenglang](https://github.com/pengpenglang)
+
