@@ -37,8 +37,8 @@
 `熬夜追番` && `ACM划水` && `写BUG` && `发呆`
 
 ### 我的数据统计
-[![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=pengpenglang&show_icons=fa&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pengpenglang&layout=compact&hide=html" height="195px"/>
+[<img src="https://github-readme-stats.vercel.app/api?username=pengpenglang&show_icons=fa&theme=flag-india" alt="Cl0udG0d's github stats" style="zoom: 84%;" />](https://github.com/anuraghazra/github-readme-stats)<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pengpenglang&layout=compact&hide=html"/>
 </a>
 
 > **你知道什么时候会赢吗？就是往前奔跑。黑夜中你知道什么时候会天亮吗？跑着跑着就天亮了 🏃**
