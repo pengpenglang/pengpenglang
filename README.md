@@ -1,5 +1,5 @@
 ## ☀ 保持热爱 奔赴山海 忠于自己 不负野心 🌊
-<img align="right" alt="" src="./img/avatar_back-2.jpg" style="@media (min-width: 960px){display:none;}" width="380px" height="560px"/>
+<img align="right" alt="" src="./img/avatar_back-3.jpg" style="@media (min-width: 960px){display:none;}" width="360px" height="540px"/>
 
 ### 👋 Hello, there is pengpenglang
 - 🏙 一个帝都末流211计算机专业的大三在读生
