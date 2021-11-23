@@ -33,7 +33,13 @@
 `熬夜追番` && `ACM划水` && `写BUG` && `发呆`
 
 ### 我的数据统计
-[<img src="https://github-readme-stats.vercel.app/api?username=pengpenglang&show_icons=fa&theme=flag-india" alt="Cl0udG0d's github stats" style="zoom: 50%;" />](https://github.com/anuraghazra/github-readme-stats)<a href="https://github.com/anuraghazra/github-readme-stats">
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=pengpenglang&count_private=true&show_icons=true&theme=flag-india&show_owner=true" style="width:50%!important" / >
+
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pengpenglang&layout=compact&hide=html"/>
 </a>
 
