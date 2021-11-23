@@ -35,7 +35,7 @@
 ### 我的数据统计
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=pengpenglang&count_private=true&show_icons=true&theme=flag-india&show_owner=true" style="width:50%!important" / >
+  <img src="https://github-readme-stats.vercel.app/api?username=pengpenglang&count_private=true&show_icons=true&theme=flag-india&show_owner=true" style="width:50%!important" / >
 
 </a>
 
