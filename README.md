@@ -6,7 +6,7 @@
 - ⚡ `ACM蒟蒻er` && `02老公` && `零食依赖症晚期患者`
 - 💬 扣扣邮箱：[2300546456@qq.com](mailto:2300546456@qq.com)
 - 📮 网易邮箱：[pengpenglang@126.com](mailto:pengpenglang@126.com)
-- ⭐ 个人博客： [Hexo搭建的小破站](https://pengpenglang.vip/)
+- ⭐ 个人博客： [Hexo搭建的小破站](https://pengpenglang.cn/)
 - 😺 杂食动物： 🍹 麦旋风 && 💻 Y9000K && 🎁 老婆手办
 - 📆 在家闭关修仙ing 👘
 - ...
@@ -29,15 +29,11 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - ...
 
-### 🦄 我的玩具 | Toys
-- [Hexo框架+butterfly主题搭建的个人小破站](https://pengpenglang.vip/)
-- ...
-
 ### 🎨 正在做的事 | Doing
 `熬夜追番` && `ACM划水` && `写BUG` && `发呆`
 
 ### 我的数据统计
-[<img src="https://github-readme-stats.vercel.app/api?username=pengpenglang&show_icons=fa&theme=flag-india" alt="Cl0udG0d's github stats" style="zoom: 83%;" />](https://github.com/anuraghazra/github-readme-stats)<a href="https://github.com/anuraghazra/github-readme-stats">
+[<img src="https://github-readme-stats.vercel.app/api?username=pengpenglang&show_icons=fa&theme=flag-india" alt="Cl0udG0d's github stats" style="zoom: 50%;" />](https://github.com/anuraghazra/github-readme-stats)<a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pengpenglang&layout=compact&hide=html"/>
 </a>
 
