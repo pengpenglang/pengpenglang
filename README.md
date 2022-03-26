@@ -1,36 +1,28 @@
-## ☀ 保持热爱 奔赴山海 忠于自己 不负野心 🌊
+## 
 <img align="right" alt="" src="./img/avatar_back-3.jpg" style="@media (min-width: 960px){display:none;}" width="360px" height="540px"/>
 
-### 👋 Hello, there is pengpenglang
-- 🏙 一个帝都末流211计算机专业的大三在读生
-- ⚡ `ACM蒟蒻er` && `02老公` && `零食依赖症晚期患者`
-- 💬 扣扣邮箱：[2300546456@qq.com](mailto:2300546456@qq.com)
-- 📮 网易邮箱：[pengpenglang@126.com](mailto:pengpenglang@126.com)
-- ⭐ 个人博客： [Hexo搭建的小破站](https://pengpenglang.cn/)
-- 😺 杂食动物： 🍹 麦旋风 && 💻 Y9000K && 🎁 老婆手办
-- 📆 在家闭关修仙ing 👘
-- ...
+### 👋 Hello | pengpenglang
+🏙 一个帝都末流211计算机专业的大三在读生
 
+⚡ `退役ACM菜鸡` && `02老公` && `零食依赖症晚期患者`
+
+💬 扣扣邮箱：[2300546456@qq.com](mailto:2300546456@qq.com)
+
+⭐ 个人博客： [停更ing](https://pengpenglang.cn/)
+
+😺 杂食动物： 🍨 麦旋风 && ⌨ mojo68 && 🎁 老婆手办
+
+### 🎨 正在做 | Doing
+
+🎧️听歌 && 📺 熬夜肝番 && 📚︎努力学习
 
 ### 🛠 技术栈 | Tech Stack
-- 💻 &#160; 
-![C](https://img.shields.io/badge/C-%E8%AF%AD%E8%A8%80-red)
-![C++11](https://img.shields.io/badge/C%2B%2B-11-blue)
-![PHP](https://img.shields.io/badge/PHP-5-brightgreen)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
-- 🌐 &#160; 
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3)
-- 🔧 &#160;
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Gitee](https://img.shields.io/badge/-Gitee-333333?style=flat&logo=gitee)
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- ...
 
-### 🎨 正在做的事 | Doing
-`熬夜追番` && `ACM划水` && `写BUG` && `发呆`
+![](./img/cpp.svg)![](./img/Python.svg)![](./img/algorithm.svg)![](./img/markdown.svg)![](./img/mysql.svg)<img src="./img/lua.jpg" alt="html" style="zoom:6%;" />![](./img/HTML5.svg)![](./img/css.svg)![](./img/js.svg)![](./img/echarts.svg)![](./img/HighCharts.svg)![](./img/swift.svg)
+
+![](./img/vscode.svg)![](./img/Typora.svg)![](./img/Sublime.svg)<img src="./img/qt.jpg" style="zoom:10%;" />![](./img/linux.svg)![](./img/github.svg)![](./img/码云.svg)![](./img/matlab.svg)![](./img/Glory of Kings.svg)
+
+
 
 ### 我的数据统计
 
@@ -44,7 +36,4 @@
 </a>
 
 > **你知道什么时候会赢吗？就是往前奔跑。黑夜中你知道什么时候会天亮吗？跑着跑着就天亮了 🏃**
-
-
-⭐️ From [pengpenglang](https://github.com/pengpenglang)
 
