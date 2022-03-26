@@ -17,11 +17,11 @@
 
 ### 🛠 技术栈 | Tech Stack
 
-![](./img/cpp.svg)![](./img/Python.svg)![](./img/algorithm.svg)![](./img/markdown.svg)![](./img/mysql.svg)<img src="./img/lua.jpg" alt="html" style="zoom:6%;" />![](./img/HTML5.svg)![](./img/css.svg)![](./img/js.svg)
+![](./img/cpp.svg)![](./img/Python.svg)![](./img/algorithm.svg)![](./img/markdown.svg)![](./img/mysql.svg)<img src="./img/lua.jpg" alt="html" width="64px" />![](./img/HTML5.svg)![](./img/css.svg)![](./img/js.svg)
 
 ![](./img/echarts.svg)![](./img/HighCharts.svg)![](./img/swift.svg)
 
-![](./img/vscode.svg)![](./img/Typora.svg)![](./img/Sublime.svg)<img src="./img/qt.jpg" style="zoom:10%;" />![](./img/linux.svg)![](./img/github.svg)![](./img/码云.svg)![](./img/matlab.svg)![](./img/Glory of Kings.svg)
+![](./img/vscode.svg)![](./img/Typora.svg)![](./img/Sublime.svg)<img src="./img/qt.jpg" width="64px" />![](./img/linux.svg)![](./img/github.svg)![](./img/码云.svg)![](./img/matlab.svg)![](./img/Glory of Kings.svg)
 
 
 
