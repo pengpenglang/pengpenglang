@@ -1,7 +1,6 @@
-## 
-<img align="right" alt="" src="./img/avatar_back-3.jpg" style="@media (min-width: 960px){display:none;}" width="360px" height="540px"/>
 
-### 👋 Hello | pengpenglang
+
+### 👋 Hello | pengpenglang<img align="right" alt="" src="./img/avatar_back-3.jpg" style="@media (min-width: 960px){display:none;}" width="260px" height="340px"/>
 🏙 一个帝都末流211计算机专业的大三在读生
 
 ⚡ `退役ACM菜鸡` && `02老公` && `零食依赖症晚期患者`
@@ -18,7 +17,9 @@
 
 ### 🛠 技术栈 | Tech Stack
 
-![](./img/cpp.svg)![](./img/Python.svg)![](./img/algorithm.svg)![](./img/markdown.svg)![](./img/mysql.svg)<img src="./img/lua.jpg" alt="html" style="zoom:6%;" />![](./img/HTML5.svg)![](./img/css.svg)![](./img/js.svg)![](./img/echarts.svg)![](./img/HighCharts.svg)![](./img/swift.svg)
+![](./img/cpp.svg)![](./img/Python.svg)![](./img/algorithm.svg)![](./img/markdown.svg)![](./img/mysql.svg)<img src="./img/lua.jpg" alt="html" style="zoom:6%;" />![](./img/HTML5.svg)![](./img/css.svg)![](./img/js.svg)
+
+![](./img/echarts.svg)![](./img/HighCharts.svg)![](./img/swift.svg)
 
 ![](./img/vscode.svg)![](./img/Typora.svg)![](./img/Sublime.svg)<img src="./img/qt.jpg" style="zoom:10%;" />![](./img/linux.svg)![](./img/github.svg)![](./img/码云.svg)![](./img/matlab.svg)![](./img/Glory of Kings.svg)
 
