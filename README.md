@@ -1,6 +1,6 @@
 
 
-### 👋 Hello | pengpenglang<img align="right" alt="" src="./img/avatar_back-3.jpg" style="@media (min-width: 960px){display:none;}" width="360px" height="540px"/>
+### 👋 Hello | pengpenglang<img align="right" alt="" src="./img/avatar_back-3.jpg" style="@media (min-width: 960px){display:none;}" width="350px" height="540px"/>
 🏙 帝都末流211CS大三在读生
 
 ⚡ `XCPC铜牌挂件` && `02男友` && `零食依赖症患者`
