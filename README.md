@@ -1,13 +1,13 @@
 
 
-### 👋 Hello | pengpenglang<img align="right" alt="" src="./img/avatar_back-3.jpg" style="@media (min-width: 960px){display:none;}" width="260px" height="340px"/>
+### 👋 Hello | pengpenglang<img align="right" alt="" src="./img/avatar_back-3.jpg" style="@media (min-width: 960px){display:none;}" width="250px" height="340px"/>
 🏙 帝都末流211CS大三在读生
 
 ⚡ `XCPC铜牌挂件` && `02男友` && `零食依赖症患者`
 
 💬 扣扣邮箱：[2300546456@qq.com](mailto:2300546456@qq.com)
 
-⭐ 个人博客： [停更中 ⛔](https://pengpenglang.cn/)
+⭐ 个人博客： [⛔ 停更中](https://pengpenglang.cn/)
 
 😺 杂食动物： 🍦 麦旋风 && ⌨ mojo68 && 🎁 老婆手办
 
