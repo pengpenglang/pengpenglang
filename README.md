@@ -9,7 +9,7 @@
 
 ⭐ 个人博客： [停更ing](https://pengpenglang.cn/)
 
-😺 杂食动物： 🍨 麦旋风 && ⌨ mojo68 && 🎁 老婆手办
+😺 杂食动物： 🍦 麦旋风 && ⌨ mojo68 && 🎁 老婆手办
 
 ### 🎨 正在做 | Doing
 
@@ -19,9 +19,9 @@
 
 ![](./img/cpp.svg)![](./img/Python.svg)![](./img/algorithm.svg)![](./img/markdown.svg)![](./img/mysql.svg)<img src="./img/lua.jpg" alt="html" width="64px" />![](./img/HTML5.svg)![](./img/css.svg)![](./img/js.svg)
 
-![](./img/echarts.svg)![](./img/HighCharts.svg)![](./img/swift.svg)
+![](./img/LaTex.svg)![](./img/echarts.svg)![](./img/HighCharts.svg)![](./img/swift.svg)
 
-![](./img/vscode.svg)![](./img/Typora.svg)![](./img/Sublime.svg)<img src="./img/qt.jpg" width="64px" />![](./img/linux.svg)![](./img/github.svg)![](./img/码云.svg)![](./img/matlab.svg)![](./img/wangzhe.svg)
+![](./img/vscode.svg)![](./img/Sublime.svg)<img src="./img/qt.jpg" width="64px" />![](./img/linux.svg)![](./img/github.svg)![](./img/码云.svg)![](./img/matlab.svg)![](./img/wangzhe.svg)
 
 
 
@@ -36,5 +36,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pengpenglang&layout=compact&hide=html"/>
 </a>
 
-> **你知道什么时候会赢吗？就是往前奔跑。黑夜中你知道什么时候会天亮吗？跑着跑着就天亮了 🏃**
+📢**你知道什么时候会赢吗？就是往前奔跑。黑夜中你知道什么时候会天亮吗？跑着跑着就天亮了 🏃**
 
