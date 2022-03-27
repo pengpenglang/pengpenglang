@@ -19,7 +19,7 @@
 
 ![](./img/cpp.svg)![](./img/Python.svg)![](./img/algorithm.svg)![](./img/markdown.svg)![](./img/mysql.svg)<img src="./img/lua.jpg" alt="html" width="64px" />![](./img/HTML5.svg)![](./img/css.svg)![](./img/js.svg)
 
-<img src="./img/opencv.png" width="49px" />![](./img/LaTex.svg)![](./img/echarts.svg)![](./img/HighCharts.svg)![](./img/swift.svg)
+<img src="./img/opencv.png" width="49px" />![](./img/latex.svg)![](./img/echarts.svg)![](./img/highcharts.svg)![](./img/swift.svg)
 
 ***
 
