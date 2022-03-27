@@ -21,7 +21,7 @@
 
 ![](./img/echarts.svg)![](./img/HighCharts.svg)![](./img/swift.svg)
 
-![](./img/vscode.svg)![](./img/Typora.svg)![](./img/Sublime.svg)<img src="./img/qt.jpg" width="64px" />![](./img/linux.svg)![](./img/github.svg)![](./img/码云.svg)![](./img/matlab.svg)![](./img/Glory of Kings.svg)
+![](./img/vscode.svg)![](./img/Typora.svg)![](./img/Sublime.svg)<img src="./img/qt.jpg" width="64px" />![](./img/linux.svg)![](./img/github.svg)![](./img/码云.svg)![](./img/matlab.svg)![](./img/wangzhe.svg)
 
 
 
