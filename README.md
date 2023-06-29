@@ -31,5 +31,3 @@
 
 ![pengpenglang's GitHub stats](https://github-readme-stats.vercel.app/api?username=pengpenglang&count_private=true&show_icons=true&theme=flag-india&show_owner=true)
 ![pengpenglang's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pengpenglang&layout=compact&hide_border=true&langs_count=10)
-
-<img align="right" alt="" src="./img/avatar_back-3.jpg" style="@media (min-width: 960px){display:none;}" width="350px" height="540px"/>
