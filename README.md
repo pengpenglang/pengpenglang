@@ -1,6 +1,6 @@
 <p align="center"><img width="80%" src="./img/banner.png" /></a></p>
 
-**<center>📢你知道什么时候会赢吗？就是往前奔跑。黑夜中你知道什么时候会天亮吗？跑着跑着就天亮了🏃<center/>**
+**<p align="center">📢你知道什么时候会赢吗？就是往前奔跑。黑夜中你知道什么时候会天亮吗？跑着跑着就天亮了🏃<p>**
 
 ### 👋 关于我 | Player
 
