@@ -1,12 +1,20 @@
-<p align="center"><img width="60%" src="./img/banner.png" /></a></p>
+<p align="center"><img width="80%" src="./img/banner.png" /></a></p>
 
 <!--**<p align="center">📢你知道什么时候会赢吗？就是往前奔跑。黑夜中你知道什么时候会天亮吗？跑着跑着就天亮了🏃<p>**-->
 
+<!--
 ### 👋 关于我 | Player
 
 - 🌏️ BNU计科专业研三在读生
 - 🥉 XCPC铜牌练习生 🔜🧙CV炼丹侠
 - 😺 杂食动物：🍦麦旋风, 🎮️打电动, 🎨绘画, 🎸吉他
+-->
+
+### 👋 About Me
+
+- 🌏 M.S. in CS, Third-year Master's Student @ BNU
+- 🥉 XCPC Bronze Medal Trainee, 🧙 CV Alchemy Apprentice
+- 😺 Omnivore like 🍦 McFlurry, 🎮 Gaming, 🎨 Drawing, 🎸 Guitar
 
 <!--### ⚒️ 技能树 | Stack
 
@@ -25,7 +33,7 @@
 <code><img height="40" alt="gitee" src="./img/gitee.svg"></code>
 <code><img height="40" alt="wangzhe" src="./img/wangzhe.svg"></code>-->
 
-### 🏆 数据板 | Record
+### 🏆 Data Record
 
 ![pengpenglang's GitHub stats](https://github-readme-stats.vercel.app/api?username=pengpenglang&count_private=true&show_icons=true&theme=flag-india&show_owner=true)
 ![pengpenglang's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pengpenglang&layout=compact&hide_border=true&langs_count=10)
