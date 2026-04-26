@@ -14,7 +14,7 @@
 
 ### 👋 About Me
 
-- 🌏 M.S. in CS, Third-year Master's Student @ BNU
+- 🌏 M.Eng. in CS, Third-year Student @ BNU
 - 🥉 XCPC Bronze Medal Trainee → 🧙Computer Vision Alchemist
 - 😺 Omnivore like 🍦 McFlurry, 🎮 Gaming, 🎨 Drawing, 🎸 Guitar
 - 🔬 Research on Biometric Recognition, Human Pose Estimation, MLLM and 3D Vision
