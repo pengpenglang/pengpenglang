@@ -2,7 +2,7 @@
 
 <!--**<p align="center">📢你知道什么时候会赢吗？就是往前奔跑。黑夜中你知道什么时候会天亮吗？跑着跑着就天亮了🏃<p>**-->
 
-<div> <img src="./img/stewart.png" width="25%" align="right"/>
+<div> <img src="./img/stewart.png" width="32%" align="right"/>
   
 <!--
 ### 👋 关于我 | Player
@@ -15,8 +15,10 @@
 ### 👋 About Me
 
 - 🌏 M.S. in CS, Third-year Master's Student @ BNU
-- 🥉 XCPC Bronze Medal Trainee, 🧙 CV Alchemy Apprentice
+- 🥉 XCPC Bronze Medal Trainee → 🧙Computer Vision Alchemist
 - 😺 Omnivore like 🍦 McFlurry, 🎮 Gaming, 🎨 Drawing, 🎸 Guitar
+- 🔬 Research on Biometric Recognition, Human Pose Estimation, MLLM and 3D Vision
+- 🍻 Feel free to reach out if you share similar interests — let’s learn and grow together!
 
 <!--### ⚒️ 技能树 | Stack
 
