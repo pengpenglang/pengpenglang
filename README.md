@@ -2,7 +2,7 @@
 
 <!--**<p align="center">📢你知道什么时候会赢吗？就是往前奔跑。黑夜中你知道什么时候会天亮吗？跑着跑着就天亮了🏃<p>**-->
 
-<div> <img src="./img/stewart.png" width="20%" align="right"/>
+<div> <img src="./img/stewart.png" width="25%" align="right"/>
   
 <!--
 ### 👋 关于我 | Player
