@@ -18,7 +18,6 @@
 - 🥉 XCPC Bronze Medal Trainee → 🧙Computer Vision Alchemist
 - 😺 Omnivore like 🍦 McFlurry, 🎮 Gaming, 🎨 Drawing, 🎸 Guitar
 - 🔬 Research on Biometric Recognition, Human Pose Estimation, MLLM and 3D Vision
-- 🍻 Feel free to reach out if you share similar interests — let’s learn and grow together!
 
 <!--### ⚒️ 技能树 | Stack
 
