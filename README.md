@@ -15,7 +15,7 @@
 ### 👋 About Me
 
 - 🌏 Ph.D. in CS, First-year Student @ Zhejiang University, CAD&CG Lab
-- 🥉 XCPC → 🧙CVer → [CG Newbie]
+- 🥉 XCPC → 🧙CVer → 🌱CG Beginner
 - 😺 Omnivore like 🍦 McFlurry, 🎮 Gaming, 🎨 Drawing, 🎸 Guitar
 - 🔬 Research on Biometric Recognition, Human Pose Estimation, MLLM and 3D Vision
 
