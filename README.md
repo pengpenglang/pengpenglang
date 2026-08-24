@@ -14,16 +14,16 @@
 
 ### 👋 About Me
 
-- 🌏 Ph.D. in CS, First-year Student @ Zhejiang University, CAD&CG Lab
-- 🥉 XCPC → 🧙CVer → 🌱CG Beginner
+- 🌏 Ph.D. in CS, First-year @ ZJU CAD&CG Lab
+- 🥉 XCPC Amateur → 🧙CV Alchemist→ 🌱CG Beginner
 - 😺 Omnivore like 🍦 McFlurry, 🎮 Gaming, 🎨 Drawing, 🎸 Guitar
 - 🔬 Research on Biometric Recognition, Human Pose Estimation, MLLM and 3D Vision
 
 <!--### ⚒️ 技能树 | Stack
 
-| 学习语种                                                     | 开发技能                                                     | 努力修炼                                                    [...] 
+| 学习语种                                                     | 开发技能                                                     | 努力修炼                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <code><img height="40" alt="cpp" src="./img/cpp.svg"></code><code><img height="40" alt="python" src="./img/python.svg"></code><code><img height="40" alt="java" src="./img/java.svg"></code><code><img[...] 
+| <code><img height="40" alt="cpp" src="./img/cpp.svg"></code><code><img height="40" alt="python" src="./img/python.svg"></code><code><img height="40" alt="java" src="./img/java.svg"></code><code><img height="40" alt="golang" src="./img/golang.svg"></code><code><img height="40" alt="lua" src="./img/lua.svg"></code><code><img height="40" alt="swift" src="./img/swift.svg"></code> | <code><img height="40" alt="pytorch" src="./img/pytorch.svg"></code><code><img height="40" alt="htmll" src="./img/html.svg"></code><code><img height="40" alt="css" src="./img/css.svg"></code><code><img height="40" alt="js" src="./img/js.svg"></code><code><img height="40" alt="markdown" src="./img/markdown.svg"></code><code><img height="40" alt="mysql" src="./img/mysql.svg"></code><code><img height="40" alt="vue" src="./img/vue.svg"></code> | <code><img height="40" alt="linux" src="./img/linux.svg"></code><code><img height="40" alt="docker" src="./img/docker.svg"></code><code><img height="40" alt="cmake" src="./img/cmake.svg"></code><code><img height="40" alt="matlab" src="./img/matlab.svg"></code> |-->
 
 <!--### 🧰 工具箱 | Tool
 
