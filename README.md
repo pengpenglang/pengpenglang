@@ -15,8 +15,8 @@
 ### 👋 About Me
 
 - 🌏 Ph.D. in CS, First-year @ ZJU CAD&CG Lab
-- 🥉 XCPC Amateur → 🧙CV Alchemist→ 🌱CG Beginner
-- 😺 Omnivore like 🍦 McFlurry, 🎮 Gaming, 🎨 Drawing, 🎸 Guitar
+- 🥉 XCPC Amateur → 🧙CV Alchemist → 🌱CG Beginner
+- 😺 Omnivore like 🍦McFlurry, 🎮Gaming, 🎨Drawing and 🎸Guitar
 - 🔬 Research on Biometric Recognition, Human Pose Estimation, MLLM and 3D Vision
 
 <!--### ⚒️ 技能树 | Stack
